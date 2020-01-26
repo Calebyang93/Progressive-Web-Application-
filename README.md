@@ -1,12 +1,12 @@
- Progressive Web Application
+Progressive Web Application
 A demo for progressive web application with features for installing application. Can use lighthouse for checking pwa performance
 
 Live
 Installation
 Step 1 - clone the repo
-$ git clone https://github.com/Calebyang93/Progressive-Web-Application
+$ git clone https://github.com/Calebyang93/Progressive-Web-Application-
 Step 2 - cd in the repo
-$ cd Progressive-Web-App
+$ cd Progressive-Web-App-
 Step 3 - install dependencies
 $ npm install
 Step 4 - run application
